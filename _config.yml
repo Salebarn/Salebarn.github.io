@@ -1,0 +1,9 @@
+# Site settings
+title: Salebarn
+email: MarkBruns@MarkBruns.com
+description: SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated negotiation technology to provide greater transparency, value, information from FREE and open markets.
+twitter_username: Salebarn_LLC
+github_username:  Salebarn
+
+# Build settings
+markdown: kramdown

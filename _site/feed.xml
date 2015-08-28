@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustain Fund</title>
+    <description>An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Aug 2015 13:30:07 -0500</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2015 13:30:07 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>The GitHubification of Politics</title>
+        <description>&lt;p&gt;&lt;strong&gt;What if we take the relationships and connections in OUR data and reimagined OUR political efforts and governments along those relationships? What would that look like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://LeanGovt.ORG&quot;&gt;LeanGovt repository on Github&lt;/a&gt; is an attempt to answer the question “How can practically construct an evolving knowledge database of business connections or relational ties so that government ONLY safegaurds rights and liberties, but allows for citizens to govern themselves and govern their relationships in a fair, open, transparent equitable manner? &lt;strong&gt;How can we build a government that allows citizens to exercise greater control over their lives?&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Conway%27s_law&quot;&gt;Conway’s Law&lt;/a&gt; tells us that &lt;em&gt;organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.&lt;/em&gt;  This means that the political organizations and Parties that have been trying to elect political leaders, ie the Democrats, the GOP, the third Party efforts, are all going to fail at changing government because their organizations are inherently corrupted by old politicos, thoroughly calcified and cannot do anything other than produce the same old crap that they always have.&lt;/p&gt;
+
+&lt;p&gt;Enter GitHub and the GitHubification of political campaigns and what the communicaiton structure built into open source version controlled public social repositories of code and content means for thoroughly revolutionizing how citizen LEADERS can collaborate on building government.  Since open source is freely extensible, it does not even matter who wins the election and takes the credit for implementing the solution AS LONG AS THE BEST SOLUTION IS READILY AVAILABLE.&lt;/p&gt;
+
+&lt;p&gt;Hopefully you already an appreciation for &lt;a href=&quot;https://en.wikipedia.org/wiki/Git_(software)&quot;&gt;Git&lt;/a&gt; and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Git_(software)&quot;&gt;history of and rational for distributed version control systems&lt;/a&gt; … and maybe you understand a bit of &lt;a href=&quot;https://www.quora.com/What-makes-GitHub-such-an-important-and-strategic-web-property&quot;&gt;what the GitHub social coding ecosystem is about&lt;/a&gt; or how &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;GitHub conquered Microsoft and Google and everyone else&lt;/a&gt; and what &lt;a href=&quot;https://help.github.com/articles/be-social/&quot;&gt;being social&lt;/a&gt; and then &lt;a href=&quot;https://developer.github.com/program/&quot;&gt;extending Github platform&lt;/a&gt; is about about.&lt;/p&gt;
+
+&lt;p&gt;But the LeanGovt repository is a specific example of why a &lt;a href=&quot;https://github.com/jakeporter&quot;&gt;VOLUNTARY social open source organization&lt;/a&gt; that is being built on FREE distributed version-controlled code repositories rather than shady donors and the same old political hacks will change politics and governments.  &lt;a href=&quot;http://dictionary.reference.com/browse/campaign&quot;&gt;Campaigns&lt;/a&gt; are about engagement and enlisting others in the fight to genuinely change how things are done … everyone knows why you cannot really change things with just one vote; anyone with any experience also knows that just one election or one elected official does not change things … but, as we have seen with the LAMP stack and open source software, better code really does change things, one line of code at a time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;Open source socially-produced code has arrived&lt;/a&gt; because the most savvy DevOps engineers thoroughly understand why collaborating on an open source team is not only fun and that the collaborative effort also “moves the ball ahead” for everyone … there’s a private intrinsic reward, but with the &lt;a href=&quot;https://help.github.com/categories/graphs-and-contributions/&quot;&gt;GitHub graphs and contributions metrics&lt;/a&gt; there is also the direct professional recognition [and possible financial reward] that comes from the public trail of commits.  Anyone who knows anything about GitHub can instantly recognize the effort the code warriors who rolled up their sleeves, dug in and made the COMMITS that made the better code happen.  LeanGovt is all about BETTER, SIMPLER code for BETTER, SIMPLER government … an application toolkit for building practical things that everyone will rely upon for more LEAN, radically lower-cost, more open and more transparent execution of government policy.&lt;/p&gt;
+
+&lt;p&gt;Winning an election might be nice, but campaigns are now fundamentally about ideas … the inertia of Big Government means that real change is difficult and slow … but regardless of which zombie gets elected, at some point even those zombies will recognize the open source &lt;a href=&quot;https://en.wiktionary.org/wiki/fait_accompli&quot;&gt;fait accompli&lt;/a&gt; for a solid implementation of LEAN government … LEAN government is necessarily a smaller, more coherent, more reliable government and LEAN government will happen through open source communication architectures and social production workflows of the type that are built into GitHub.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Aug 2015 03:30:00 -0500</pubDate>
+        <link>/technology/2015/08/28/The-GitHubification-of-Politics.html</link>
+        <guid isPermaLink="true">/technology/2015/08/28/The-GitHubification-of-Politics.html</guid>
+        
+        
+        <category>technology</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to LEAN Government!</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.safaribooksonline.com/a/graph-databases-2nd/337963/&quot;&gt;“What if we take the relationships and connections in OUR data and reimagined OUR business along those relationships? What would that look like?”&lt;/a&gt;  Indeed!  And what if government were aimed at staying OUT of the way of dictating morality and being the primary party in everyone’s relationships and instead ONLY focused on prizing the liberties and maintaining the rights of individuals.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://LeanGovt.ORG&quot;&gt;LeanGovt&lt;/a&gt; takes this “What If” question a step further by asking “How can practically construct an evolving knowledge database of business connections or relational ties so that government ONLY safegaurds rights and liberties, but allows for citizens to govern themselves and govern their relationships in a fair, open, transparent equitable manner? &lt;strong&gt;How can we allow citizens to exercise greater control over their lives?&lt;/strong&gt;”&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2015 12:00:00 -0500</pubDate>
+        <link>/philosophy/2015/08/27/welcome-to-LeanGovt.html</link>
+        <guid isPermaLink="true">/philosophy/2015/08/27/welcome-to-LeanGovt.html</guid>
+        
+        
+        <category>philosophy</category>
+        
+      </item>
+    
+  </channel>
+</rss>
