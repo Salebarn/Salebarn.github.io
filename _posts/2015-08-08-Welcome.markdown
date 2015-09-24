@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Market Governance"
+date:   2015-08-08 17:00:00
+categories: Philosophy
+---
+[“What if we take the voluntary relationships and productive, useful connections in OUR data and reimagined OUR lives and our business along those relationships? What would that look like?”](https://www.safaribooksonline.com/a/graph-databases-2nd/337963/).  Salebarn, as a practical, pragmatic [anarcho-capitalist](https://en.wikipedia.org/wiki/Anarcho-capitalism) market technology R&D lab takes this "What If" question a step further by asking "How can we practically construct the technologies that allow independent citizens to opt out and begin the process, virtually at first, to emigrate away from governments that violently, coercively protect the rights and liberties of the powerful and people of influence?"  **What can we build that gives citizens more choices, so that they may exercise greater control over their lives?**"

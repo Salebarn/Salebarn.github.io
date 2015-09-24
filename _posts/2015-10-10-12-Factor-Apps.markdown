@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "The FULL significance of the 12 Factor App mindset"
+date:   2015-10-10 17:00:00
+categories: Philosophy
+---
+
+# Twelve Factor apps have become absolutely NECESSARY in the softare-as-a-service realm
+The following are not goals; they are requirements.  If we cannot meet these requirements, we should not pollute the world with our careless, reckless, ill-conceived app.
+
+## I. Codebase
+There can be many deployments, but a twelve-factor app is ALWAYS tracked in a version control system, such as Git, Mercurial, or Subversion. ALWAYS! ALWAYS! ALWAYS!  And "ALWAYS!" means that it necessary to center an workflow around the code repositories in version control system ... for example, meetings should not be physical, but instead be conducted via repository-centric chat with archived transcripts.
+
+## II. Dependencies
+A twelve-factor app never relies on implicit existence of system-wide packages. It declares all dependencies, completely and exactly, via a dependency declaration manifest.
+
+## III. Config
+The twelve-factor app stores config in environment variables (often shortened to env vars or env). Env vars are easy to change between deploys without changing any code; unlike config files, there is little chance of them being checked into the code repo accidentally. In a twelve-factor app, env vars are granular controls, each fully orthogonal to other env vars. They are never grouped together as “environments”, but instead are independently managed for each deploy.
+
+## IV. Backing Services
+The code for a twelve-factor app makes no distinction between local and third party services. To the app, both are attached resources, accessed via a URL or other locator/credentials stored in the config.
+
+## V. Build, release, run
+The twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID, such as a timestamp of the release (such as 2011-04-06-20:32:17) or an incrementing number (such as v100). Releases are an append-only ledger and a release cannot be mutated once it is created. Any change MUST create a new release.
+
+## VI. Processes
+Twelve-factor processes are stateless and share-nothing. Any data that needs to persist must be stored in a stateful backing service, typically a database. The memory space or filesystem of the process can be used as a brief, single-transaction cache.
+
+## VII. Port binding
+The twelve-factor app is completely self-contained and does not rely on runtime injection of a webserver into the execution environment to create a web-facing service. Typically, the web app exports HTTP as a service by binding to a port, and listening to requests coming in on that port. HTTP is not the only service that can be exported by port binding. Nearly any kind of server software can be run via a process binding to a port and awaiting incoming requests. Examples include ejabberd (speaking XMPP), and Redis (speaking the Redis protocol).
+
+## VIII. Concurrency
+In the twelve-factor app, processes are a first class citizen. Processes in the twelve-factor app take strong cues from the [unix process model for running service daemons](http://adam.herokuapp.com/past/2011/5/9/applying_the_unix_process_model_to_web_apps/).
+
+## IX. Disposability
+The twelve-factor app’s processes are disposable, meaning they can be started or stopped at a moment’s notice. This facilitates fast elastic scaling, rapid deployment of code or config changes, and robustness of production deploys.
+
+## X. Dev/prod parity
+The twelve-factor app is designed for continuous deployment by making the gap between development and production as small as possible... make the time gap small ... make the personnel gap small ... make the tools gap small.
+
+## XI. Logs
+A twelve-factor app never concerns itself with routing or storage of its output stream. It should not attempt to write to or manage logfiles.
+
+## XII. Admin processes
+Run admin/management tasks as one-off processes. One-off admin processes should be run in an identical environment as the regular long-running processes of the app. They run against a release, using the same codebase and config as any process run against that release. Admin code must ship with application code to avoid synchronization issues.

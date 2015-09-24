@@ -1,35 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sustain Fund</title>
-    <description>An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.</description>
+    <title>Salebarn</title>
+    <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Aug 2015 13:30:07 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2015 13:30:07 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2015 11:23:28 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2015 11:23:28 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>The GitHubification of Politics</title>
-        <description>&lt;p&gt;&lt;strong&gt;What if we take the relationships and connections in OUR data and reimagined OUR political efforts and governments along those relationships? What would that look like?&lt;/strong&gt;&lt;/p&gt;
+        <title>The FULL significance of the 12 Factor App mindset</title>
+        <description>&lt;h1 id=&quot;twelve-factor-apps-have-become-absolutely-necessary-in-the-softare-as-a-service-realm&quot;&gt;Twelve Factor apps have become absolutely NECESSARY in the softare-as-a-service realm&lt;/h1&gt;
+&lt;p&gt;The following are not goals; they are requirements.  If we cannot meet these requirements, we should not pollute the world with our careless, reckless, ill-conceived app.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;http://LeanGovt.ORG&quot;&gt;LeanGovt repository on Github&lt;/a&gt; is an attempt to answer the question “How can practically construct an evolving knowledge database of business connections or relational ties so that government ONLY safegaurds rights and liberties, but allows for citizens to govern themselves and govern their relationships in a fair, open, transparent equitable manner? &lt;strong&gt;How can we build a government that allows citizens to exercise greater control over their lives?&lt;/strong&gt;”&lt;/p&gt;
+&lt;h2 id=&quot;i-codebase&quot;&gt;I. Codebase&lt;/h2&gt;
+&lt;p&gt;There can be many deployments, but a twelve-factor app is ALWAYS tracked in a version control system, such as Git, Mercurial, or Subversion. ALWAYS! ALWAYS! ALWAYS!  And “ALWAYS!” means that it necessary to center an workflow around the code repositories in version control system … for example, meetings should not be physical, but instead be conducted via repository-centric chat with archived transcripts.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Conway%27s_law&quot;&gt;Conway’s Law&lt;/a&gt; tells us that &lt;em&gt;organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.&lt;/em&gt;  This means that the political organizations and Parties that have been trying to elect political leaders, ie the Democrats, the GOP, the third Party efforts, are all going to fail at changing government because their organizations are inherently corrupted by old politicos, thoroughly calcified and cannot do anything other than produce the same old crap that they always have.&lt;/p&gt;
+&lt;h2 id=&quot;ii-dependencies&quot;&gt;II. Dependencies&lt;/h2&gt;
+&lt;p&gt;A twelve-factor app never relies on implicit existence of system-wide packages. It declares all dependencies, completely and exactly, via a dependency declaration manifest.&lt;/p&gt;
 
-&lt;p&gt;Enter GitHub and the GitHubification of political campaigns and what the communicaiton structure built into open source version controlled public social repositories of code and content means for thoroughly revolutionizing how citizen LEADERS can collaborate on building government.  Since open source is freely extensible, it does not even matter who wins the election and takes the credit for implementing the solution AS LONG AS THE BEST SOLUTION IS READILY AVAILABLE.&lt;/p&gt;
+&lt;h2 id=&quot;iii-config&quot;&gt;III. Config&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app stores config in environment variables (often shortened to env vars or env). Env vars are easy to change between deploys without changing any code; unlike config files, there is little chance of them being checked into the code repo accidentally. In a twelve-factor app, env vars are granular controls, each fully orthogonal to other env vars. They are never grouped together as “environments”, but instead are independently managed for each deploy.&lt;/p&gt;
 
-&lt;p&gt;Hopefully you already an appreciation for &lt;a href=&quot;https://en.wikipedia.org/wiki/Git_(software)&quot;&gt;Git&lt;/a&gt; and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Git_(software)&quot;&gt;history of and rational for distributed version control systems&lt;/a&gt; … and maybe you understand a bit of &lt;a href=&quot;https://www.quora.com/What-makes-GitHub-such-an-important-and-strategic-web-property&quot;&gt;what the GitHub social coding ecosystem is about&lt;/a&gt; or how &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;GitHub conquered Microsoft and Google and everyone else&lt;/a&gt; and what &lt;a href=&quot;https://help.github.com/articles/be-social/&quot;&gt;being social&lt;/a&gt; and then &lt;a href=&quot;https://developer.github.com/program/&quot;&gt;extending Github platform&lt;/a&gt; is about about.&lt;/p&gt;
+&lt;h2 id=&quot;iv-backing-services&quot;&gt;IV. Backing Services&lt;/h2&gt;
+&lt;p&gt;The code for a twelve-factor app makes no distinction between local and third party services. To the app, both are attached resources, accessed via a URL or other locator/credentials stored in the config.&lt;/p&gt;
 
-&lt;p&gt;But the LeanGovt repository is a specific example of why a &lt;a href=&quot;https://github.com/jakeporter&quot;&gt;VOLUNTARY social open source organization&lt;/a&gt; that is being built on FREE distributed version-controlled code repositories rather than shady donors and the same old political hacks will change politics and governments.  &lt;a href=&quot;http://dictionary.reference.com/browse/campaign&quot;&gt;Campaigns&lt;/a&gt; are about engagement and enlisting others in the fight to genuinely change how things are done … everyone knows why you cannot really change things with just one vote; anyone with any experience also knows that just one election or one elected official does not change things … but, as we have seen with the LAMP stack and open source software, better code really does change things, one line of code at a time.&lt;/p&gt;
+&lt;h2 id=&quot;v-build-release-run&quot;&gt;V. Build, release, run&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID, such as a timestamp of the release (such as 2011-04-06-20:32:17) or an incrementing number (such as v100). Releases are an append-only ledger and a release cannot be mutated once it is created. Any change MUST create a new release.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;Open source socially-produced code has arrived&lt;/a&gt; because the most savvy DevOps engineers thoroughly understand why collaborating on an open source team is not only fun and that the collaborative effort also “moves the ball ahead” for everyone … there’s a private intrinsic reward, but with the &lt;a href=&quot;https://help.github.com/categories/graphs-and-contributions/&quot;&gt;GitHub graphs and contributions metrics&lt;/a&gt; there is also the direct professional recognition [and possible financial reward] that comes from the public trail of commits.  Anyone who knows anything about GitHub can instantly recognize the effort the code warriors who rolled up their sleeves, dug in and made the COMMITS that made the better code happen.  LeanGovt is all about BETTER, SIMPLER code for BETTER, SIMPLER government … an application toolkit for building practical things that everyone will rely upon for more LEAN, radically lower-cost, more open and more transparent execution of government policy.&lt;/p&gt;
+&lt;h2 id=&quot;vi-processes&quot;&gt;VI. Processes&lt;/h2&gt;
+&lt;p&gt;Twelve-factor processes are stateless and share-nothing. Any data that needs to persist must be stored in a stateful backing service, typically a database. The memory space or filesystem of the process can be used as a brief, single-transaction cache.&lt;/p&gt;
 
-&lt;p&gt;Winning an election might be nice, but campaigns are now fundamentally about ideas … the inertia of Big Government means that real change is difficult and slow … but regardless of which zombie gets elected, at some point even those zombies will recognize the open source &lt;a href=&quot;https://en.wiktionary.org/wiki/fait_accompli&quot;&gt;fait accompli&lt;/a&gt; for a solid implementation of LEAN government … LEAN government is necessarily a smaller, more coherent, more reliable government and LEAN government will happen through open source communication architectures and social production workflows of the type that are built into GitHub.&lt;/p&gt;
+&lt;h2 id=&quot;vii-port-binding&quot;&gt;VII. Port binding&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app is completely self-contained and does not rely on runtime injection of a webserver into the execution environment to create a web-facing service. Typically, the web app exports HTTP as a service by binding to a port, and listening to requests coming in on that port. HTTP is not the only service that can be exported by port binding. Nearly any kind of server software can be run via a process binding to a port and awaiting incoming requests. Examples include ejabberd (speaking XMPP), and Redis (speaking the Redis protocol).&lt;/p&gt;
+
+&lt;h2 id=&quot;viii-concurrency&quot;&gt;VIII. Concurrency&lt;/h2&gt;
+&lt;p&gt;In the twelve-factor app, processes are a first class citizen. Processes in the twelve-factor app take strong cues from the &lt;a href=&quot;http://adam.herokuapp.com/past/2011/5/9/applying_the_unix_process_model_to_web_apps/&quot;&gt;unix process model for running service daemons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ix-disposability&quot;&gt;IX. Disposability&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app’s processes are disposable, meaning they can be started or stopped at a moment’s notice. This facilitates fast elastic scaling, rapid deployment of code or config changes, and robustness of production deploys.&lt;/p&gt;
+
+&lt;h2 id=&quot;x-devprod-parity&quot;&gt;X. Dev/prod parity&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app is designed for continuous deployment by making the gap between development and production as small as possible… make the time gap small … make the personnel gap small … make the tools gap small.&lt;/p&gt;
+
+&lt;h2 id=&quot;xi-logs&quot;&gt;XI. Logs&lt;/h2&gt;
+&lt;p&gt;A twelve-factor app never concerns itself with routing or storage of its output stream. It should not attempt to write to or manage logfiles.&lt;/p&gt;
+
+&lt;h2 id=&quot;xii-admin-processes&quot;&gt;XII. Admin processes&lt;/h2&gt;
+&lt;p&gt;Run admin/management tasks as one-off processes. One-off admin processes should be run in an identical environment as the regular long-running processes of the app. They run against a release, using the same codebase and config as any process run against that release. Admin code must ship with application code to avoid synchronization issues.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Aug 2015 03:30:00 -0500</pubDate>
-        <link>/technology/2015/08/28/The-GitHubification-of-Politics.html</link>
-        <guid isPermaLink="true">/technology/2015/08/28/The-GitHubification-of-Politics.html</guid>
+        <pubDate>Sat, 10 Oct 2015 12:00:00 -0500</pubDate>
+        <link>/philosophy/2015/10/10/12-Factor-Apps.html</link>
+        <guid isPermaLink="true">/philosophy/2015/10/10/12-Factor-Apps.html</guid>
+        
+        
+        <category>philosophy</category>
+        
+      </item>
+    
+      <item>
+        <title>Conway&#39;s Law and Why GitHub Matters</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Conway%27s_law&quot;&gt;Conway’s Law&lt;/a&gt; tells us that &lt;em&gt;organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.&lt;/em&gt;  This means that the political organizations and Parties that have been trying to elect political leaders, ie the Democrats, the GOP, the third Party efforts, are all going to fail at changing government because their organizations are inherently corrupted by old politicos, thoroughly calcified and cannot do anything other than produce the same old crap that they always have.&lt;/p&gt;
+
+&lt;p&gt;Hopefully you already an appreciation for the open source distributed version control system &lt;a href=&quot;https://git-scm.com/&quot;&gt;Git&lt;/a&gt; and the &lt;a href=&quot;http://aosabook.org/en/git.html&quot;&gt;history of and rationale behind the development of Git&lt;/a&gt; … and maybe you understand a bit of &lt;a href=&quot;https://www.quora.com/What-makes-GitHub-such-an-important-and-strategic-web-property&quot;&gt;what the GitHub social coding ecosystem is about&lt;/a&gt; or how &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;GitHub conquered Microsoft and Google and everyone else&lt;/a&gt; and what &lt;a href=&quot;https://help.github.com/articles/be-social/&quot;&gt;being social&lt;/a&gt; and then &lt;a href=&quot;https://developer.github.com/program/&quot;&gt;extending Github platform&lt;/a&gt; is about.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;Open source socially-produced code has formally now arrived&lt;/a&gt; because the most savvy DevOps engineers thoroughly understand why collaborating on an open source team is not only fun and that the collaborative effort also “moves the ball ahead” for everyone … there’s a private intrinsic reward, but with the &lt;a href=&quot;https://help.github.com/categories/graphs-and-contributions/&quot;&gt;GitHub graphs and contributions metrics&lt;/a&gt; there is also the direct professional recognition [and possible financial reward] that comes from the public trail of commits, pull requests, gists, issues, comments, etc.&lt;/p&gt;
+
+&lt;p&gt;Github is a means to an end, but the MEANS to that end are critically important.  It’s important to reiterate what &lt;a href=&quot;https://en.wikipedia.org/wiki/Conway%27s_law&quot;&gt;Conway’s Law&lt;/a&gt; tells us about &lt;em&gt;organizations which design systems … being constrained to produce designs which are copies of the communication structures of these organizations.&lt;/em&gt;  A solid implementation of market-based technologies that furnish more options and greater choice and transcend government … but that effort is, FIRST and FOREMOST, about creating the technologies that enable a leaner, smaller, saner, less coercive, more reliable government.  That is exactly what is happening right now through open source communication architectures and social production workflows of the type that were designed and built into Git and the GitHub platform and are &lt;a href=&quot;https://developer.github.com/program/&quot;&gt;constantly being extended and improved&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Sep 2015 03:30:00 -0500</pubDate>
+        <link>/technology/2015/09/09/Why-GitHub-Matters.html</link>
+        <guid isPermaLink="true">/technology/2015/09/09/Why-GitHub-Matters.html</guid>
         
         
         <category>technology</category>
@@ -37,14 +79,12 @@
       </item>
     
       <item>
-        <title>Welcome to LEAN Government!</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.safaribooksonline.com/a/graph-databases-2nd/337963/&quot;&gt;“What if we take the relationships and connections in OUR data and reimagined OUR business along those relationships? What would that look like?”&lt;/a&gt;  Indeed!  And what if government were aimed at staying OUT of the way of dictating morality and being the primary party in everyone’s relationships and instead ONLY focused on prizing the liberties and maintaining the rights of individuals.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://LeanGovt.ORG&quot;&gt;LeanGovt&lt;/a&gt; takes this “What If” question a step further by asking “How can practically construct an evolving knowledge database of business connections or relational ties so that government ONLY safegaurds rights and liberties, but allows for citizens to govern themselves and govern their relationships in a fair, open, transparent equitable manner? &lt;strong&gt;How can we allow citizens to exercise greater control over their lives?&lt;/strong&gt;”&lt;/p&gt;
+        <title>Market Governance</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.safaribooksonline.com/a/graph-databases-2nd/337963/&quot;&gt;“What if we take the voluntary relationships and productive, useful connections in OUR data and reimagined OUR lives and our business along those relationships? What would that look like?”&lt;/a&gt;.  Salebarn, as a practical, pragmatic &lt;a href=&quot;https://en.wikipedia.org/wiki/Anarcho-capitalism&quot;&gt;anarcho-capitalist&lt;/a&gt; market technology R&amp;amp;D lab takes this “What If” question a step further by asking “How can we practically construct the technologies that allow independent citizens to opt out and begin the process, virtually at first, to emigrate away from governments that violently, coercively protect the rights and liberties of the powerful and people of influence?”  &lt;strong&gt;What can we build that gives citizens more choices, so that they may exercise greater control over their lives?&lt;/strong&gt;”&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Aug 2015 12:00:00 -0500</pubDate>
-        <link>/philosophy/2015/08/27/welcome-to-LeanGovt.html</link>
-        <guid isPermaLink="true">/philosophy/2015/08/27/welcome-to-LeanGovt.html</guid>
+        <pubDate>Sat, 08 Aug 2015 12:00:00 -0500</pubDate>
+        <link>/philosophy/2015/08/08/Welcome.html</link>
+        <guid isPermaLink="true">/philosophy/2015/08/08/Welcome.html</guid>
         
         
         <category>philosophy</category>
