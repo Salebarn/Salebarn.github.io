@@ -11,7 +11,9 @@ Reading a lot is the first step to skillfully curating content and thinking ahea
 # Political economics and social choice theory
 If you want to understand LEAN government, you need to ask the fundamental questions ... [Bastiat](http://bastiat.org/en/the_law.html#SECTION_G004) was doing this a LONG TIME ago ... and he wasn't exactly the first or only only one ... there are a LOT of important economic, political and social theorists who have already articulated and amply demonstrated the reasons for why government should focus on staying out of the lives of people, rather than providing for people's wants and desires.
 
-Government is primarity about information and we should expect that the information technology employed by government is a LOT better than it is.  Poor technology serves the needs of those interested in preserving old power.  We can and should do better; generally technology is apolitical and better technology does not cost nearly as much as maintaining bad old technology. Let's look at a technology like blockchain distributed database technology.
+Government is primarily about information and we should expect that the information technology employed by government is a LOT better than it is.  Poor technology serves the needs of those interested in preserving old power.  We can and should do better; generally technology is apolitical and better technology does not cost nearly as much as maintaining bad old technology. Let's look at a technology like blockchain distributed database technology.
+
+It it important to understand something about commons-based peer production or social production, especially the successful [open source architectures](http://aosabook.org/en/index.html).
 
 # Blockchain and Bitcoin
 – Blockchain distributed database technology was used for Bitcoin, but many of the new use cases have nothing to do with Bitcoin.
