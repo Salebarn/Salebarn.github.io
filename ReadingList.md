@@ -13,7 +13,7 @@ If you want to understand LEAN government, you need to ask the fundamental quest
 
 Government is primarily about information and we should expect that the information technology employed by government is a LOT better than it is.  Poor technology serves the needs of those interested in preserving old power.  We can and should do better; generally technology is apolitical and better technology does not cost nearly as much as maintaining bad old technology. Let's look at a technology like blockchain distributed database technology.
 
-It it important to understand something about commons-based peer production or social production, especially the successful [open source architectures](http://aosabook.org/en/index.html).
+It it important to understand something about commons-based peer production or social production or Decentralized Collaborative Organization or [reposium](https://medium.com/college-cryptocurrency-network/reposium-dco-the-future-of-wikipedia-4be080cfa027) ... at a minimum, it is especially worth understanding how the particularly successful [open source architectures](http://aosabook.org/en/index.html) could never have been built under the development regimes that are found in proprietary software organizations.
 
 # Blockchain and Bitcoin
 – Blockchain distributed database technology was used for Bitcoin, but many of the new use cases have nothing to do with Bitcoin.

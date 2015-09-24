@@ -5,8 +5,8 @@
     <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Sep 2015 15:39:22 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2015 15:39:22 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2015 16:29:41 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2015 16:29:41 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -56,6 +56,25 @@
         
         
         <category>philosophy</category>
+        
+      </item>
+    
+      <item>
+        <title>The state of the economic data industry</title>
+        <description>&lt;p&gt;Not all data are created equally.  Some data really matter because they are the artifacts of serious choice by people with scarce resources to allocate.&lt;/p&gt;
+
+&lt;p&gt;Data that is an artifact of an economic transaction … unlike search engine data or social media data, with sort of just data about potential interests or preferences or even boredom … is actually valuable.&lt;/p&gt;
+
+&lt;p&gt;One example of a company working in this realm is &lt;a href=&quot;https://metamarkets.com/blog/&quot;&gt;MetaMarkets&lt;/a&gt; which specializes in programmatic ad data using its own technology stack that is built end-to-end for speed, flexibility, and the power to handle huge volumes of programmatic ad data. Programmatic advertising dwarfs Wall Street in data volume, growth, and complexity. It is arguably the most complex marketplace ever created.&lt;/p&gt;
+
+&lt;p&gt;Another company is &lt;a href=&quot;https://www.premise.com/&quot;&gt;Premise&lt;/a&gt;, an economic data collection and aggregation company, which just recieved &lt;a href=&quot;http://techcrunch.com/2015/09/24/premise-raises-50-million-to-outsource-the-collection-of-economic-data/&quot;&gt;$50 million in series C funding&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Sep 2015 12:00:00 -0500</pubDate>
+        <link>/data/2015/09/24/MetaMarkets-Economic-Data.html</link>
+        <guid isPermaLink="true">/data/2015/09/24/MetaMarkets-Economic-Data.html</guid>
+        
+        
+        <category>data</category>
         
       </item>
     
