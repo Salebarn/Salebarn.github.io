@@ -5,16 +5,16 @@
     <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Sep 2015 14:23:04 -0500</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2015 14:23:04 -0500</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2015 17:50:12 -0500</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 17:50:12 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>The FULL significance of the 12 Factor App mindset</title>
-        <description>&lt;h1 id=&quot;twelve-factor-apps-have-become-absolutely-necessary-in-the-softare-as-a-service-realm&quot;&gt;Twelve Factor apps have become absolutely NECESSARY in the softare-as-a-service realm&lt;/h1&gt;
-&lt;p&gt;The following are not goals; they are requirements.  If we cannot meet these requirements, we should not pollute the world with our careless, reckless, ill-conceived app.&lt;/p&gt;
+        <description>&lt;h1 id=&quot;twelve-factor-apps-have-become-absolutely-necessary-in-the-softare-as-a-service-realm--but-there-is-a-lucky-13th-factor&quot;&gt;Twelve Factor apps have become absolutely NECESSARY in the softare-as-a-service realm … but there is a LUCKY 13th factor.&lt;/h1&gt;
+&lt;p&gt;The following are not goals; they are requirements.  If we cannot meet these requirements, we should not pollute the world with our careless, reckless, ill-conceived app … the MOST necessary thing about an app happens BEFORE you start PRACTICING WRITING CODE … BEFORE YOU START monkeying around with code, before you start thinking about architecture, it is important to not just conceive of a new [incrementally-better] product [because that’s what you will do AFTER you have a new product] … the first thing that you must do is reconceive the customers for a new emergent product … this is about making life, making love, making happiness … the process of becoming [something more], becoming emergent must be and can be continually created, reconceived.&lt;/p&gt;
 
-&lt;h2 id=&quot;i-codebase&quot;&gt;I. Codebase&lt;/h2&gt;
+&lt;h2 id=&quot;i-version-controlled-codebase--blog&quot;&gt;I. Version-Controlled Codebase / Blog&lt;/h2&gt;
 &lt;p&gt;There can be many deployments, but a twelve-factor app is ALWAYS tracked in a version control system, such as Git, Mercurial, or Subversion. ALWAYS! ALWAYS! ALWAYS!  And “ALWAYS!” means that it necessary to center an workflow around the code repositories in version control system … for example, meetings should not be physical, but instead be conducted via repository-centric chat with archived transcripts.&lt;/p&gt;
 
 &lt;h2 id=&quot;ii-dependencies&quot;&gt;II. Dependencies&lt;/h2&gt;
