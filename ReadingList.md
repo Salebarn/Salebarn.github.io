@@ -8,6 +8,13 @@ If you want to make a difference and change the world, you must first work on ch
 
 Reading a lot is the first step to skillfully curating content and thinking ahead, learning how to learn what will be important and doing more serious work with automating data and data APIs. Advanced work with data is essential for understanding the flow of information [in both the digital and non-digital realms].  Trust, integrity, information security and everything impacting the social contract is all about information flow. When it comes to the flow information, you are either predator or prey ... you are either antifragile or you are a sucker.  If you want to make a difference and change the world, you cannot allow yourself to passively consume content like a sucker -- you cannot be programmed like someone's gadget; you must learn to program yourself -- you have to learn to READ.
 
+# Efficient, effective centralized data architectures in the cloud
+– Even if we have political reasons for wanting to move people toward much greater self-reliance, independence and freedom, and therefore away from *centralized* data architectures, we still really MUST understand *centralized* systems.  Perhaps, we will see a move away from centralized systems because of their inherent vulnerabilities to class breaks and focused attacks, but that is probably not likely ... even if there weren't a LOT of money at stake for the centralizers [but there really IS!], cultural adoption takes a lot longer than technological change, so all of this means that centralized data architectures in the cloud will be with us a very long time ... even if only as legacy systems.
+- Kubernetes, MESOS, Docker containers, microsservices, Cloud Foundry PAAS,
+- 12factor Apps, 12Factor.Net
+
+
+
 # Political economics and social choice theory
 If you want to understand LEAN government, you need to ask the fundamental questions ... [Bastiat](http://bastiat.org/en/the_law.html#SECTION_G004) was doing this a LONG TIME ago ... and he wasn't exactly the first or only only one ... there are a LOT of important economic, political and social theorists who have already articulated and amply demonstrated the reasons for why government should focus on staying out of the lives of people, rather than providing for people's wants and desires.
 
@@ -15,7 +22,7 @@ Government is primarily about information and we should expect that the informat
 
 It it important to understand something about commons-based peer production or social production or Decentralized Collaborative Organization or [reposium](https://medium.com/college-cryptocurrency-network/reposium-dco-the-future-of-wikipedia-4be080cfa027) ... at a minimum, it is especially worth understanding how the particularly successful [open source architectures](http://aosabook.org/en/index.html) could never have been built under the development regimes that are found in proprietary software organizations.
 
-# Blockchain and Bitcoin
+# Lessons from Bitcoin, blockchain and moving toward decentralized and distributed data architectures
 – Blockchain distributed database technology was used for Bitcoin, but many of the new use cases have nothing to do with Bitcoin.
 
 – The artitecture of blockchain is basically that of an accounts ledger, but it is a distributed ledger that is not controlled by any single institution. You trust the algortithm rather than the institution.  The algorithms of blockchain are relatively simple; what are highly complex and totally unnerving are the intensely emotional relationships that people have to money.  People might say that they don't understand blockchain or bitcoin, but the reality is that they do not have any understanding about the magical and superstitious trust that they have blindly placed in money so blockchain and bitcoin make no sense ... because they are not secured by MAGIC, like blind faith in politically-driven monetary institution like the Federal Reserve.
