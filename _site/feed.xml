@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salebarn</title>
-    <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
+    <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated discovery and negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Sep 2015 18:28:52 -0500</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2015 18:28:52 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Tue, 03 Jan 2017 11:48:22 -0600</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 11:48:22 -0600</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>The FULL significance of the 12 Factor App mindset</title>
@@ -26,7 +26,7 @@
 &lt;p&gt;The twelve-factor app stores config in environment variables (often shortened to env vars or env). Env vars are easy to change between deploys without changing any code; unlike config files, there is little chance of them being checked into the code repo accidentally. In a twelve-factor app, env vars are granular controls, each fully orthogonal to other env vars. They are never grouped together as “environments”, but instead are independently managed for each deploy.&lt;/p&gt;
 
 &lt;h2 id=&quot;iv-backing-services&quot;&gt;IV. Backing Services&lt;/h2&gt;
-&lt;p&gt;The code for a twelve-factor app makes no distinction between local and third party services. To the app, both are attached resources, accessed via a URL or other locator/credentials stored in the config.&lt;/p&gt;
+&lt;p&gt;A backing service is any service the app consumes over the network as part of its normal operation. Examples include datastores (such as MySQL or CouchDB), messaging/queueing systems (such as RabbitMQ or Beanstalkd), SMTP services for outbound email (such as Postfix), and caching systems (such as Memcached). The code for a twelve-factor app makes no distinction between local and third party services. To the app, both are attached resources, accessed via a URL or other locator/credentials stored in the config.&lt;/p&gt;
 
 &lt;h2 id=&quot;v-build-release-run&quot;&gt;V. Build, release, run&lt;/h2&gt;
 &lt;p&gt;The twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID, such as a timestamp of the release (such as 2011-04-06-20:32:17) or an incrementing number (such as v100). Releases are an append-only ledger and a release cannot be mutated once it is created. Any change MUST create a new release.&lt;/p&gt;
@@ -52,12 +52,12 @@
 &lt;h2 id=&quot;xii-admin-processes&quot;&gt;XII. Admin processes&lt;/h2&gt;
 &lt;p&gt;Run admin/management tasks as one-off processes. One-off admin processes should be run in an identical environment as the regular long-running processes of the app. They run against a release, using the same codebase and config as any process run against that release. Admin code must ship with application code to avoid synchronization issues.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Oct 2015 12:00:00 -0500</pubDate>
-        <link>/philosophy/2015/10/10/12-Factor-Apps.html</link>
-        <guid isPermaLink="true">/philosophy/2015/10/10/12-Factor-Apps.html</guid>
+        <pubDate>Sun, 01 Jan 2017 11:00:00 -0600</pubDate>
+        <link>/philosophy/2017/01/01/Do-12-Factor-Apps-Still-Matter.html</link>
+        <guid isPermaLink="true">/philosophy/2017/01/01/Do-12-Factor-Apps-Still-Matter.html</guid>
         
         
-        <category>philosophy</category>
+        <category>Philosophy</category>
         
       </item>
     
@@ -73,12 +73,12 @@
 
 &lt;p&gt;There are other opportunities in economic data being created every second; for example, we can think about rapidly emerging communities like crowdfunding or bitcoin that did not exist a decade ago OR we can think about how &lt;a href=&quot;http://www.programmableweb.com/news/5-ways-to-increase-api-adoption/analysis/2015/06/12&quot;&gt;data and data APIs have become the means for building communities and expanding networks&lt;/a&gt;.  Markets that more free than ever is particularly interesting and that is the realm that Salebarn is exploring … things like peer-to-peer distributed exchanges, smart contracts and revolutions that continue to break out in freelancing, remote working, microwork, app hubs and developments like &lt;a href=&quot;https://medium.com/college-cryptocurrency-network/reposium-dco-the-future-of-wikipedia-4be080cfa027&quot;&gt;reposium&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 24 Sep 2015 12:00:00 -0500</pubDate>
-        <link>/data/2015/09/24/MetaMarkets-Economic-Data.html</link>
-        <guid isPermaLink="true">/data/2015/09/24/MetaMarkets-Economic-Data.html</guid>
+        <pubDate>Sat, 25 Jun 2016 12:00:00 -0500</pubDate>
+        <link>/data/2016/06/25/MetaMarkets-Economic-Data.html</link>
+        <guid isPermaLink="true">/data/2016/06/25/MetaMarkets-Economic-Data.html</guid>
         
         
-        <category>data</category>
+        <category>Data</category>
         
       </item>
     
@@ -97,20 +97,7 @@
         <guid isPermaLink="true">/technology/2015/09/09/Why-GitHub-Matters.html</guid>
         
         
-        <category>technology</category>
-        
-      </item>
-    
-      <item>
-        <title>Market Governance</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.safaribooksonline.com/a/graph-databases-2nd/337963/&quot;&gt;“What if we take the voluntary relationships and productive, useful connections in OUR data and reimagined OUR lives and our business along those relationships? What would that look like?”&lt;/a&gt;.  Salebarn, as a practical, pragmatic &lt;a href=&quot;https://en.wikipedia.org/wiki/Anarcho-capitalism&quot;&gt;anarcho-capitalist&lt;/a&gt; market technology R&amp;amp;D lab takes this “What If” question a step further by asking “How can we practically construct the technologies that allow independent citizens to opt out and begin the process, virtually at first, to emigrate away from governments that violently, coercively protect the rights and liberties of the powerful and people of influence?”  &lt;strong&gt;What can we build that gives citizens more choices, so that they may exercise greater control over their lives?&lt;/strong&gt;”&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Aug 2015 12:00:00 -0500</pubDate>
-        <link>/philosophy/2015/08/08/Welcome.html</link>
-        <guid isPermaLink="true">/philosophy/2015/08/08/Welcome.html</guid>
-        
-        
-        <category>philosophy</category>
+        <category>Technology</category>
         
       </item>
     

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The state of the economic data industry"
-date:   2015-09-24 17:00:00
+date:   2016-06-25 17:00:00
 categories: Data
 ---
 
@@ -13,4 +13,4 @@ One example of a company nudging in the more meaningful niche in this realm is [
 
 Another company with a more active strategy to acquire more valuable data is [Premise](https://www.premise.com/), an economic data collection and aggregation company, which just received [$50 million in series C funding](http://techcrunch.com/2015/09/24/premise-raises-50-million-to-outsource-the-collection-of-economic-data/). Premise is a SaaS provider that uses 25,000 “contributors” in 32 countries and tasks them with photographing and otherwise documenting economic data in order to provide customers like the World Bank with highly valuable information. Premise has boots on the ground who will show up at grocery stores and send back information that Premise’s data analysts then parse.
 
-There are other opportunities in economic data being created every second; for example, we can think about rapidly emerging communities like crowdfunding or bitcoin that did not exist a decade ago OR we can think about how [data and data APIs have become the means for building communities and expanding networks](http://www.programmableweb.com/news/5-ways-to-increase-api-adoption/analysis/2015/06/12).  Markets that more free than ever is particularly interesting and that is the realm that Salebarn is exploring ... things like peer-to-peer distributed exchanges, smart contracts and revolutions that continue to break out in freelancing, remote working, microwork, app hubs and developments like [reposium](https://medium.com/college-cryptocurrency-network/reposium-dco-the-future-of-wikipedia-4be080cfa027). 
+There are other opportunities in economic data being created every second; for example, we can think about rapidly emerging communities like crowdfunding or bitcoin that did not exist a decade ago OR we can think about how [data and data APIs have become the means for building communities and expanding networks](http://www.programmableweb.com/news/5-ways-to-increase-api-adoption/analysis/2015/06/12).  Markets that more free than ever is particularly interesting and that is the realm that Salebarn is exploring ... things like peer-to-peer distributed exchanges, smart contracts and revolutions that continue to break out in freelancing, remote working, microwork, app hubs and developments like [reposium](https://medium.com/college-cryptocurrency-network/reposium-dco-the-future-of-wikipedia-4be080cfa027).

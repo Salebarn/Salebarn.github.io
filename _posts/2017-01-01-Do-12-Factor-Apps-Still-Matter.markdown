@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The FULL significance of the 12 Factor App mindset"
-date:   2015-10-10 17:00:00
+date:   2017-01-01 17:00:00
 categories: Philosophy
 ---
 
