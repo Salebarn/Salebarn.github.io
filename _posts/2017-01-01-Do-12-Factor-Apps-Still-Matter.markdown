@@ -12,14 +12,7 @@ But there is a THIRTEENTH factor ... the MOST necessary thing about an app happe
 
 This means moving from an "Application Platform-as-a-Service" to a "Container Platform-as-a-Service" to in order to enable [a more highly distributed SQL database with support for ACID transactions, horizontal scalability and survivability](https://github.com/cockroachdb/cockroach#design).  The ultimate intent is a radically more diffuse, distributed, decentralized transaction database using blockchain architecture.  In highly distributed systems [like bitcoin], suspicion, pessimism and paranoia are used as architecture requirements to build highly reliable systems from extremely unreliable, untrustworthy components ... which is possible by focusing on the most core elements of a transaction and assuming throughout the design process that all nodes and channels of the network, as well as all bots or participants that might use the system are untrustworthy even potentially malicious.  
 
- The distinction between the two is that CF has a staging layer that takes a (12-factor) user app (e.g. jar or gem) and a Heroku-style buildpack (e.g. Java+Tomcat or Ruby) and produces a droplet (analogous to a Docker image). CF doesn't expose the containerization interface to the user, but Kubernetes does.
-
-Audience
-
-CloudFoundry's primary audience is enterprise application devs who want to deploy 12-factor stateless apps using Heroku-style buildpacks.
-
-Kubernetes' audience is a little broader, including both stateless application and stateful service developers who provide their own containers.
-
+But the 12 Factor App mindset STILL matters ... let's look at WHY.
 
 
 ## I. Version-Controlled Codebase / Blog

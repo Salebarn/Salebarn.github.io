@@ -5,8 +5,8 @@
     <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated discovery and negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2017 12:51:42 -0600</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2017 12:51:42 -0600</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2017 12:53:17 -0600</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2017 12:53:17 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -18,13 +18,7 @@
 
 &lt;p&gt;This means moving from an “Application Platform-as-a-Service” to a “Container Platform-as-a-Service” to in order to enable &lt;a href=&quot;https://github.com/cockroachdb/cockroach#design&quot;&gt;a more highly distributed SQL database with support for ACID transactions, horizontal scalability and survivability&lt;/a&gt;.  The ultimate intent is a radically more diffuse, distributed, decentralized transaction database using blockchain architecture.  In highly distributed systems [like bitcoin], suspicion, pessimism and paranoia are used as architecture requirements to build highly reliable systems from extremely unreliable, untrustworthy components … which is possible by focusing on the most core elements of a transaction and assuming throughout the design process that all nodes and channels of the network, as well as all bots or participants that might use the system are untrustworthy even potentially malicious.&lt;/p&gt;
 
-&lt;p&gt;The distinction between the two is that CF has a staging layer that takes a (12-factor) user app (e.g. jar or gem) and a Heroku-style buildpack (e.g. Java+Tomcat or Ruby) and produces a droplet (analogous to a Docker image). CF doesn’t expose the containerization interface to the user, but Kubernetes does.&lt;/p&gt;
-
-&lt;p&gt;Audience&lt;/p&gt;
-
-&lt;p&gt;CloudFoundry’s primary audience is enterprise application devs who want to deploy 12-factor stateless apps using Heroku-style buildpacks.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes’ audience is a little broader, including both stateless application and stateful service developers who provide their own containers.&lt;/p&gt;
+&lt;p&gt;But the 12 Factor App mindset STILL matters … let’s look at WHY.&lt;/p&gt;
 
 &lt;h2 id=&quot;i-version-controlled-codebase--blog&quot;&gt;I. Version-Controlled Codebase / Blog&lt;/h2&gt;
 &lt;p&gt;There can be many deployments, but a twelve-factor app is ALWAYS tracked in a version control system, such as Git, Mercurial, or Subversion. ALWAYS! ALWAYS! ALWAYS!  And “ALWAYS!” means that it necessary to center an workflow around the code repositories in version control system … for example, meetings should not be physical, but instead be conducted via repository-centric chat with archived transcripts.&lt;/p&gt;
