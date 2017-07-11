@@ -5,8 +5,8 @@
     <description>SALEBARN is about DISTRIBUTED FREEDOM. We extend FREE and accelerated discovery and negotiation technology to provide greater transparency, value, information from FREE and open markets.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jul 2017 10:11:53 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Jul 2017 10:11:53 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2017 10:19:29 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2017 10:19:29 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -27,13 +27,21 @@
 
 &lt;p&gt;This post is about making your most important infrastructure MORE RELIABLE … it is about OWNING the part of your network that your customers see and depend upon … even if you own NOTHING beneath the top surface of the skin of what customers see – THAT is all that matters to the infrastructure of your customer interaction and your network of customers.  It will be absolutely necessary to build that trusted network from underlying components that you cannot depend upon in the future and and should never, ever, ever trust … trust is like a hotel room – you do not and cannot EVER own trust, you must RENT it and it is up to YOU to engineer and ensure its reliability.  Reliability is partly about REDUNDANCY, but it is about constant vigilance and SITUATIONAL AWARENESS of where the vulnerabilities and weaknesses are.  A watched pot never boils, but when it does, you immediately make a switch … before the customer ever experiences a scalding spillover from that boiling pot.&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;TBD&lt;/em&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;zero-trust-networks&quot;&gt;Zero Trust Networks&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;TBD&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;certification&quot;&gt;Certification&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;TBD&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;monitoring-tools&quot;&gt;Monitoring Tools&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;TBD … not just AWS’s Chaos Monkey and re-routing tools, but that too&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;data-science-for-security-professionals&quot;&gt;Data Science For Security Professionals&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;TBD&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;*TBD TBD TBD TBD TBD  and much more TBD … the following ruminations, currently in-process will be from what I gain preparing to take part in a class that I am excited about … maybe you want to sign up for that class &lt;a href=&quot;https://www.safaribooksonline.com/live-training/courses/data-science-for-security-professionals/0636920095781/&quot;&gt;Data Science for Security Professionals&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Introduction: Data Preparation with Pandas (15 Min)
 What is Pandas and why use it?

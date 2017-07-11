@@ -21,13 +21,21 @@ If you find our approach to problem solving and building knowledge useful and wa
 
 This post is about making your most important infrastructure MORE RELIABLE ... it is about OWNING the part of your network that your customers see and depend upon ... even if you own NOTHING beneath the top surface of the skin of what customers see -- THAT is all that matters to the infrastructure of your customer interaction and your network of customers.  It will be absolutely necessary to build that trusted network from underlying components that you cannot depend upon in the future and and should never, ever, ever trust ... trust is like a hotel room -- you do not and cannot EVER own trust, you must RENT it and it is up to YOU to engineer and ensure its reliability.  Reliability is partly about REDUNDANCY, but it is about constant vigilance and SITUATIONAL AWARENESS of where the vulnerabilities and weaknesses are.  A watched pot never boils, but when it does, you immediately make a switch ... before the customer ever experiences a scalding spillover from that boiling pot.  
 
+*TBD*
+
 ## Zero Trust Networks
+*TBD*
 
 ## Certification
+*TBD*
 
 ## Monitoring Tools
+*TBD ... not just AWS's Chaos Monkey and re-routing tools, but that too*
 
 ## Data Science For Security Professionals
+*TBD*
+
+*TBD TBD TBD TBD TBD  and much more TBD ... the following ruminations, currently in-process will be from what I gain preparing to take part in a class that I am excited about ... maybe you want to sign up for that class [Data Science for Security Professionals](https://www.safaribooksonline.com/live-training/courses/data-science-for-security-professionals/0636920095781/)
 
 Introduction: Data Preparation with Pandas (15 Min)
 What is Pandas and why use it?
