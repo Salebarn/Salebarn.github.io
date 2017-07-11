@@ -70,6 +70,7 @@ Have you identified a unique opportunity that others don't see?
 AFTER we narrowed our list in this fashion, the next thing to look at is SCALEABILITY ... that is basically the next heading.
 
 ## IV. Scalability and antifragile community husbandry processes
+
 Professional brand management and different social commerce strategies are starting to mature. We can look at what works, what doesn't.  What we are really looking at here are inclusive networks with built-in incentive structures (see above material) that go beyond merely spreading ideas, but enlist people to take them further, develop and extend the ideas for their purposes and yet continue to participate in advancing the value proposition of the general idea.  
 
 This stages gets to be partly about LETTING GO ... not just giving others the opportunity to USE and OWN the idea, but encouraging them to hack something bigger.
