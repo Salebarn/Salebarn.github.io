@@ -1,13 +1,23 @@
 ---
 layout: post
-title:  "Prospecting Funnel"
+title:  "3125-625-125-25-5 Prospecting Funnel"
 date:   2017-02-02 17:00:00
-categories: Philosophy
+categories: Technology, Philosophy
 ---
+
+Salebarn builds tools to be absolutely MANIACALLY focused on accelerating a negotiation in a way that involves SERVING qualified, paying customers.  
+
+In order to serve that paying customer with an efficient, satisfying, beneficial accelerated negotiation ... we must find ways to engage QUALIFIED customer; we don't want to waste ANY of the time or attention span of people who are not interested OR will never be able to complete a negotiation ... it USED TO BE that this involved getting out and meeting people and making 25 new face-to-face contacts per day with potentially interested people, advertising and interesting target populations of potential customers in a product, putting up a high-quality bricks-and-mortar store OR holding really entertaining promotional events or auctions ... communication technology, social media and smartphones has revolutionized how these things are done, but even though the approach might be different those tactics are still being used effectively and, to the extent we can make those tactics even more effective, much less costly, much more rapid and generally more satisfying for all involved, new communication networks, information technology and independent providers like can play a role ... but there's no role for anyone who makes things more difficult, less efficient slower.
+
+The focus of Salebarn is not on the technology, technology helps us implement tools -- the Salebarn repeated mantra, our maniac focus is on the accelerating the PERFECT negotiation ... that means STARTING off with the correct group of potential customers so entrepreneurs can better find, engage and SERVE QUALIFIED PAYING CUSTOMERS.  
 
 # The Ideas-To-Value Funnel
 
-This post is about PROSPECTING, first and foremost -- it's NOT a get-rich-quick scheme. It is NOT about getting morons to buy your worthless second-rate product.  It is NOT about getting your share of a shrinking pie -- although competition definitely matters and there's a place for advocating, advertising and promoting a good idea -- this process is about fundamentally increasing the size of the pie. At its core it is fundamentally a build-a-wealth-foundation-in-an-antifragile-manner approach that relies upon the simple construct of a funnel or sieve to look at the universe of ideas and to narrow the universe down to a practical set of things that represent the highest and best value of your time in terms of things that you can enjoy working on in order to accelerate the process of to provide legitimate value for others [and yourself].  
+PROSPECTING, first and foremost, is NOT a get-rich-quick scheme ... prospectors who get into the game thinking they will get rich quick end up buy all kinds of gear they don't need from people who do get rich quick selling overpriced stuff to greedy SUCKERS.
+
+You cannot be a greedy SUCKER ... you are not going to find enough BIGGER suckers to buy your worthless second-rate product.  Prospecting is NOT about getting your share of a shrinking pie -- although competition definitely matters and there's a place for advocating, advertising and promoting a good idea -- prospecting must fundamentally be about increasing the size of the pie, or you are wasting everyone's time.
+
+At its core prospecting is a build-a-wealth-foundation-in-an-antifragile-manner approach that relies upon the simple construct of a funnel or sieve to look at the universe of ideas and to narrow the universe down to a practical set of things that represent the highest and best value of your time in terms of things that you can enjoy working on in order to accelerate the process of to provide legitimate value for others [and yourself].  
 
 The universe of what humans understand is constantly expanding but it will NEVER EVER catch up with the actual full universe of Reality. This process is fundamentally about falling in love with Reality ... and diligently working at loving Reality as it really is going to be, not the fairy princess Reality that you hope Reality might be, not the shrinking hard Reality that you fear Reality might be, and certainly NOT the tiny, little narrow Reality that you've always thought it was ... you must love Reality as the constantly expanding genuine Reality that Reality is always going to be in the future, even as you remain skeptical of whether you really know the true Reality or not. Prospecting is about being in love with and being one with Reality ... discernment of true Reality is FUNDAMENTALLY a spiritual process of discovery.  Since it is necessarily, outside-the-politicized-HUMAN-box, but within the constraints of true Reality, prospecting is fundamentally NOT a process of submission to the values of a cult or NOT a process of submission to the mores, rules and rituals of a cult.
 
