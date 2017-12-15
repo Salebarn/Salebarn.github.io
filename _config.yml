@@ -7,3 +7,5 @@ github_username:  Salebarn
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-time-machine
