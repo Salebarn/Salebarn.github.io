@@ -13,7 +13,7 @@ Obviously, the there are factors far beyond our control, but the working outline
 
 # Vision
 
-Perhaps, it is important to lay out something about the vision or very general direction that Salebarn.com will take.
+Perhaps, it is important to lay out something about the vision or very general direction that Salebarn.com will take.  The likelihood that the exact, current vision of Salebarn.com being successful, is like the likeihood of success of any new venture ... almost NIL, effectively ZERO. But the general direction gives people an understanding of the types of open source repositories and technologies that Salebarn will need to invent and then develop ... as with early e-commerce pioneers of the 1990s who had to develop things like the LAMP stack OR highly-scalable information technologies, there will be significant benefits of this launch ... even though the implementation of the vision will need to be practical from a perspective of fitting the immediate needs of users and working within certain structures and conventions TEMPORARILY.
 
 ## Post-Government
 
