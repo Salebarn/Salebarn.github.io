@@ -10,3 +10,17 @@ Development of Salebarn.com begins TODAY.
 Salebarn.com is going to launch after 1000 working days (6 work days per week; holidays will be quasi-work days, but each weak will have a day of rest and no work on Sunday) ... you can check back right here to follow our development progress and when available begin using our beta technology.  
 
 Obviously, the there are factors far beyond our control, but the working outline of our plan will be to have the FINISH of the beta period on August 6, 2021 -- with launch day to be on August 7th, 2021.
+
+# Vision
+
+Perhaps, it is important to lay out something about the vision or very general direction that Salebarn.com will take.
+
+## Post-Goverment
+
+## Highly-Distributed
+
+## Anti-Sedentary
+
+## Sustainability
+
+## Antifragile Workflow
