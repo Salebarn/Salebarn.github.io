@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Market Based Management"
+title:  "The Salebarn.com Commitment to Implementation of Market Based Management"
 date:   2018-05-30 4:29:00
 categories: Technology
 ---
@@ -9,7 +9,7 @@ If, for some reason, you have not yet read and re-read Charlie Koch's book on "T
 
 Fred C. Koch spent time developing petroleum cracking units in the Soviet Union under Joseph Stalin's regime between 1929 and 1932 and came back with a deep disdain for the communist regime's totalitarianism. He described the nation as "a land of hunger, misery, and terror," and later, lamented the fact that many of the engineers he had worked with there had been purged by Stalin's regime, along with a great many other "intellectuals". Driven by a personal appreciation that TENS of MILLIONS of the brightest, most capable, most talented people had died because of communism, the Kochs understood the necessity of freedom to the success of societies, and translated that necessity into their business practices — Market-Based Management is ALSO the working business philosophy for Salebarn.com.
 
-
+The Salebarn.com implementation will be different than the Koch Industries approach ... there's no need to repeat what Koch is doing; they are doing a fine job and must execute within the parameters of their business, with their personnel and resources. The implementation will be different. The philosophy is essentially the same.
 
 #  Integrity
 
