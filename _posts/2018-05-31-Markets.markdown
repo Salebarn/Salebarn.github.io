@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Salebarn.com Commitment to Implementation of MBM®"
-date:   2018-05-30 4:29:00
+date:   2018-05-31 4:29:00
 categories: Technology
 ---
 
