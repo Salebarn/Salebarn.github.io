@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Technology Strategy of Salebarn.com"
+title:  "The Disruptive Technology Strategy of Salebarn.com"
 date:   2018-06-01 4:29:00
 categories: Technology
 ---
