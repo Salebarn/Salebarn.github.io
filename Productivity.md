@@ -1,6 +1,6 @@
 # Productivity
 
-This is a ridiculously, almost laughably, ambitious list of *365 Days of Productivty" ... as ambitious as it might seem, the list contains NOTHING NEW ... in fact, most of it is nothing more than a RE-presentation of ancient advice from Stoics and Eastern philosophers from thousands of years ago ... the only thing that has changed is that nowadays, in our affluent world, there are more distractions and more diversions from productivity than ever ... it's as if the bulk of our technological advantages have been channelled into making most of us dramatically FATTER, LAZIER, LESS PRODUCTIVE than at any point in human history.
+This is a ridiculously, almost laughably, ambitious list of *365 Days of Your Commitment to Improving Your Productivty* ... as laughably ambitious as it might seem, the list contains NOTHING NEW ... in fact, most of it is nothing more than a RE-presentation of ancient advice from Stoics and Eastern philosophers from thousands of years ago ... the only thing that has changed is that nowadays, in our affluent world, there are more distractions and more diversions from productivity than ever ... it's as if the bulk of our technological advantages have been channelled into making most of us dramatically FATTER, LAZIER, LESS PRODUCTIVE than at any point in human history.
 
 * Day 1 ... Commit to working on ONE habit per day; start now -- do NOT wait until January 1 or even tomorrow.  Commit to NOT QUITTING on this system and do it NOW.
 
