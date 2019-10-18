@@ -1,5 +1,3 @@
-# About
-
 The Salebarn project is about accelerating and improving the execution of those recurrent tasks that are associated with selling something or developing new business.
 
 Salebarn is NOT a replacement for eBay or Amazon or Etsy Ritchie Bros or Sotheby's or any auctioneer that operates either online or physical auctions.
