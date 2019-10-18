@@ -19,7 +19,7 @@ The big improvement for most people is in the area of appetite management and no
 * **Day 4** ... SLEEP better
 
 Get to bed earlier [so that it is even possible to get up earlier to sieze the day], ie don't allow yourself to be like the toddler who wants to stay up to watch five more minutes of mindless schlock on the TV OR to respond to one more comment on social media OR to waste more time not sleeping in a cool, dark room without any devices or distractions.  MOST of the civilized world is sleep-deprived because undisciplined people need to stay up to fritter away their sanity rather than getting the sleep they need.  
-* **Day 5** ... Make yourself ready to handle more stress, more aggravation, more work
+* **Day 5** ... Make yourself ready to handle more stress, more aggravation, more MEANINGFUL work
 
 WORK at becoming more resilient, better able to take on challenges.
 
