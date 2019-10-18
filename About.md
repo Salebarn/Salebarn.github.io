@@ -1,4 +1,4 @@
-# ABOUT
+# About
 
 The Salebarn project is about accelerating and improving the execution of those recurrent tasks that are associated with selling something or developing new business.
 
