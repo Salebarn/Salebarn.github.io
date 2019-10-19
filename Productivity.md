@@ -24,3 +24,16 @@ Get to bed earlier [so that it is even possible to get up earlier to sieze the d
 WORK at becoming more resilient, better able to take on challenges.
 
 Get rid of the STUPID mindless challenges.  Get rid of the toxic people and depressing souls who drag everyone down -- associate with people who DO THINGS and expect that the people who they hang around with will do things.  Downsize your time commitment to the half of your friends who simply do not push you hard enough to be a better person ... you might have to downsize your commitment to people who don't exercise, who complain about things but don't make changes, who are too attached to accumulating more stuff or gaining more status ... taking on more challenges and the right kinds of challenges means that some people are not going to spend as much time with you -- don't abandon them, but allow them to make the changes that they need to make in order to be more productive, to join you in taking on more challenges.
+
+
+* **Day 6** ... Prioritize your day's task, prioritize your week's plans, prioritize your month SMART objectives -- de-prioritize the merely urgent, be ready to tell people "NO!!!" without making excuses
+
+START with the end in mind ... develop Specific Measurable Aggressive Realistic Timebound Goals for the month ... from these SMART objectives, develop an agile workflow of action plans and weekly missions which then map into daily ToDo lists.  
+
+This sounds easy enough and it is ... the tough part is disappointing people and perhaps disappointing yourself by saying "NO!!!" to things that are not on the critical path to completing your projects. You HAVE TO BE IN THE POSITION TO SAY NO ... without just saying "No." because you are lazy or don't want to help.
+
+* **Day 7** ... Resist distractions
+
+Open your email inbox twice a day, AT MOST.  Same for your phone, txt messages ... if at all possible, avoid social media altogether.
+
+Get rid of the STUPID mindless distractions ... take back control of your mind.
