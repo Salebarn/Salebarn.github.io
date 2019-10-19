@@ -37,3 +37,17 @@ This sounds easy enough and it is ... the tough part is disappointing people and
 Open your email inbox twice a day, AT MOST.  Same for your phone, txt messages ... if at all possible, avoid social media altogether.
 
 Get rid of the STUPID mindless distractions ... take back control of your mind.
+
+* **Day *8*** ... Prioritize the list of habits you want to build, Brainstorm additional habits for the list
+
+First of all, set the stage for the next week; but as you are working through this list, keep brainstorming new productivity habits that you intend to improve
+
+5S / Shine, Sort, Simplify, Standardize, Sustain
+
+Use D.O.W.N.T.I.M.E. to eliminate waste
+
+Landscaping / build the quality of biomass in your sculpted edible landscape
+
+Be AWESOME, celebrate AWESOME, curate AWESOME
+
+Find ways to think ORTHOGONALLY different
