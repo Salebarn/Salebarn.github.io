@@ -5,7 +5,7 @@ date:   2020-12-31 4:30:00
 categories: template
 ---
 
-*This is ONLY boilerplate text ... we are working on developing a better template for our curated, annotated reading lists.
+*This is ONLY boilerplate text ... we are working on developing a better template for our curated, annotated reading lists.*
 
 
 - [Background <a name="background"></a>](#background-)
