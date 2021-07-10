@@ -1,4 +1,10 @@
-# Transparency, Transparency, Transparency
+---
+layout: page
+title: About
+permalink: /About/
+---
+
+# Accelerating The Negotiation With Transparency
 
 Salebarn is OPEN SOURCE technology which is freely downloadable and available for anyone to implement in their business ... this blog or CMS is a collection of annotated reading list about how you might use those technologies. A reading list is not an endorsement; it is only a suggestion that it might be worth taking a look at.
 

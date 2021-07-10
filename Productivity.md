@@ -1,6 +1,17 @@
+---
+layout: page
+title: ReadingLists
+permalink: /ReadingLists/
+---
+
+
 # Productivity
 
-This is a ridiculously, almost laughably, ambitious list of **365 Days of Your Commitment to Improving Your Productivty** ... as laughably ambitious as it might seem, the list contains NOTHING NEW ... in fact, most of it is nothing more than a RE-presentation of ancient advice from Stoics and Eastern philosophers from thousands of years ago ... the only thing that has changed is that nowadays, in our affluent world, there are more distractions and more diversions from productivity than ever ... it's as if the bulk of our technological advantages have been channelled into making most of us dramatically FATTER, LAZIER, LESS PRODUCTIVE than at any point in human history.
+The reading lists amount to **365 Days of Your Commitment to Improving The Productivty Of Your Marketing Approach and YOUR LIFE** ... it begins with understanding why READERS ARE LEADERS ... you can't lead by watching or passively consuming -- to lead, you must actively read, think, plan, do, check and act.
+
+Start by reading and forking AWESOME lists ... curate and annotate AWESOME reading lists ... think, strategic, reshape the ideas into your plans, implement your plans, check on the implementation and ACT ... but when you JUST act, without a mountain of active thought, your actions will be like snowflakes upon the ocean. 
+
+Be INDEPENDENTLY informed ... when you think better, you will be seen as disruptive and dangerous -- that's what independence is all about ... productivity depends upon independence ... otherwise, why bother.
 
 * **Day 1** ... Commit to working on ONE habit per day; start now -- do NOT wait until January 1 or even tomorrow.  Commit to NOT QUITTING on this system and do it NOW.
 
@@ -48,6 +59,3 @@ Use D.O.W.N.T.I.M.E. to eliminate waste
 
 Landscaping / build the quality of biomass in your sculpted edible landscape
 
-Be AWESOME, celebrate AWESOME, curate AWESOME
-
-Find ways to think ORTHOGONALLY different
