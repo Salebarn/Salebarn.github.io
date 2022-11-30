@@ -12,7 +12,12 @@ categories: reading
 
 ## Introduction
 
-This reading list is actually TWO reading lists in a way ... BOTH lists are focused upon REMOTE asynch.work. 
+This reading list is about value, choice, prices, markets, auctions, trading exchanges, information and capital.
+
+You might imagine that you have a pretty good idea of what **value** is, as long as you actually bother to spend some time actually THINKING deeply about what is valuable to you. Most people REFUSE to do this; it makes them a bit uncomfortable -- they prefer to dwell upon what others value, what is currently fashionable or how fashions are changing. The biggest truth of economics is that whatever is truly, intrinsically, deeply valuable to you has absolutely NOTHING whatsoever to do with what is valuable to another person. And vice versa. People might imagaine that value the same things as others, eg a person might value being warm in the Winter or cool in the Summer, but exact degree to which any person values their choice of ideal temperatures settings or the flucuation in temperature over the day or year or lifetime is very, VERY, **VERY** different for each one of us. For more billions different reasons than there are billions of humans.
+
+Perceptions, judgements, valuations of **choice** vary immensely ... by the moment ... even in something as mundane and ordinary as the temperature or the comfort settings of our immediate environment.  Of course, physiologically, all of those 9 billion value-ers are basically all the same members of the same species, ie they could have their temperatures managed as if they were livestock [or in prison] but they would lose something intrinsically valuable by having their *temperature* or *ambient comfort* choice taken from them.  Each individual will ***value*** some attribute of some thing, like the air in their immediate environment, differently ... valuation is UNIQUE. Your ***values*** or valuations completely define your life -- although those values shift not just over your life, but from year to year, from day to day and even from second to second. It's almost ridiculous to talk about **shared** values in the inherently ephemeral environment of the human mind ... values are HELD, opinions can be shared, values cannot be shared -- they must be *arrived at* on personal level ... that's why taking **choice** away from human beings is why fights break out, people choose sides and wars and massive killing gets underway. NEVER advocate taking choice away from human beings unless you want to initiate a war.
+ 
 
 **Why did we start curating this reading list?**
 
@@ -36,7 +41,7 @@ We have not yet seen AI/ML offer RADICALLY compelling reason for customers, shop
 
 ## The market for talent has changed
 
-Perhaps by the day ... or hour ... and through the rise of subscription-based content-providing professionals.
+Perhaps by the day ... or hour ... and through the rise of subscription-based content-providing professionals ... it takes an enormous amount of time ... but, slowly humans are becoming more independent in how they work, how they spend their hourly lives ... *slowly*, slowly, SLOWLY we are seeing the demise of slavery, that includes the ***wage*** slavery of typical worklives.
 
 This is all about the listing that companies post ... we are probably not actually going to apply for these positions, but these posted positions do give an indication of what kinds of skills were important when the positions were posted ... things change rapidly, but other than talking directly with companies who need services (ie what inbound marketing is about), there's probably not a better way to find out where the needs for talent/skills is the hottest. 
 
@@ -48,16 +53,5 @@ This is all about the listing that companies post ... we are probably not actual
 
 [WFH.team](https://wfh.team/) ... *300+ resources for remote work*
 
-### Observability
-
 [Job-Hunt.ORG](https://www.job-hunt.org/) ... *helping job seekers succeed since 1994* 
 
-## Inbound or Content Marketing
-
-### Articulate YOUR Culture in YOUR words
-
-It might take a really long time to get that articulation right ... it's somewhat like an 30-second elevator speech which at first might just sound like a rehash of bullshit bingo, but as you keep living that speech you will adjust and own the words. *Just stay at it.*
-
-**Do the HARD work that actually really MATTERS, even if it is utilitarian or seemingly obvious and will go generally apprecited.** You can help billions to grow sustainably and develop over the long term. Everyone can be Abraham; everyone who decides to matter will have cultural descendants.
-
-Develop and LIVE in a culture that attracts and builds. Do the HARD work that actually really MATTERS.
