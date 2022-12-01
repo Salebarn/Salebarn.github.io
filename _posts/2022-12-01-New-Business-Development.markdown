@@ -94,7 +94,7 @@ What is data? Printed content?
 
 [LessWrong](https://www.lesswrong.com/) ... or it's [autodidact founder, Eliezer Yudkowsky] https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
 
-# Human capital
+## Human capital
 
 Human skills and competencies that have ready buyers and an actively-traded, fungible market.
 
