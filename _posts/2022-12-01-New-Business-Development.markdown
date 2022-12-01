@@ -86,7 +86,7 @@ FIXED assets or things that have a ready, fungible market.
 
 ## Technology
 
-What are machines for?
+What are investments in technology really for? How do we determine whether or not technology is really what is driving productivity. It is quite reasonable to be extremely skeptical about whether technology alone really does raise productivity or does the availability of technology simply provide the option for human expertise to overcome some constraint ... so that operational systems can be developed into the kinds of things that actually produce or realize productivity gains ... it's not just the technology -- how can we *USE* the technology in a production system ... can we make this other people and other resources which are involved or have a stake in the productive system. Finding ways to *USE* technology in a disciplined, efficacious manner is difficult ... having the vision, workflow discipline and will to create a disruptive new productive system from assembled technology is very HARD [and most often fails].
 
 ## Data
 
