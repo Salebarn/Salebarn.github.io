@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Reputation Improvement By Accelerated Negotiation"
-date:   2022-12-01 4:30:00
-categories: reading
+date:   2023-01-01 4:30:00
+categories: mission
 ---
 
 # Accelerating the negotiation is what Salebarn is about.
