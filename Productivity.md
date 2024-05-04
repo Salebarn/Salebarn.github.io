@@ -9,7 +9,7 @@ permalink: /ReadingLists/
 
 The reading lists amount to **365 Days of Your Commitment to Improving The Productivty Of Your Marketing Approach and YOUR LIFE** ... it begins with understanding why READERS ARE LEADERS ... you can't lead by watching or passively consuming -- to lead, you must actively read, think, plan, do, check and act.
 
-Start by reading and forking AWESOME lists ... curate and annotate AWESOME reading lists ... think, strategic, reshape the ideas into your plans, implement your plans, check on the implementation and ACT ... but when you JUST act, without a mountain of active thought, your actions will be like snowflakes upon the ocean. 
+Start by reading and forking AWESOME lists ... use AI to curate and annotate AWESOME reading lists ... think, strategic, reshape the ideas into your plans, implement your plans, check on the implementation and ACT ... but when you JUST act, without a mountain of active thought, your actions will be like snowflakes upon the ocean. 
 
 Be INDEPENDENTLY informed ... when you think better, you will be seen as disruptive and dangerous -- that's what independence is all about ... productivity depends upon independence ... otherwise, why bother.
 
