@@ -5,11 +5,19 @@ date:   2024-05-04 4:30:00
 categories: mission
 ---
 
+***Stop going to church. Start BEING the church.***
+
 # Auctioneering EVENTS are about FRIENDRAISING
 
-FRIENDRAISING is about RESURRECTION of the Christian community ... with or without churchs and pharisaical impediments to spreading the Gospel and the love of our Lord and Savior Jesus Christ.
+**Stop going to church. Start BEING the church.**
 
-Friendraising events brings people together and accelerates various inter-church and intra-church negotiations ... in general, the strategic objective is about advancing the PR/outreach agenda of the organization served by this process.
+FRIENDRAISING is about the RESURRECTION of body of believers in the Christian community ... building the body of believers and thus making the REAL spiritual church healthy will be done with or without physical churches and pharisaical institutional impediments to spreading the Gospel and the love of our Lord and Savior Jesus Christ. The traditional bricks-and-mortar churches can play a very active role in building up the real SPIRITUAL church, but the idolators and worshippers of physcical structures rather than Christ will be left behind. 
+
+This is why we believe that the dead should be left to bury their dead.
+
+Friendraising events brings people together and accelerates various inter-church phatic conversations and deeper intra-church internal negotiations that restore spiritual life to churches and generally lead toward deeper, more empathetic friendships in the community ... in general, the strategic objective of Salebarn is about advancing the PR/outreach agenda of LIVING spiritual organizations that wish to be served by this process. 
+
+**It's NOT about fundraising or about guilt-based checkbook charity or passing the collection plate in public to play on people's vanity and pride.** It's RADICALLY different than what you will find in the realm of conventional benefit auctioneering and fundraising consultants ... it's about EXERCISING atrophied community muscles and slowly building up the body of believers and making the REAL spiritual church healthy.
 
 ## Immersive training in order to TRAIN outreach leadership
 
